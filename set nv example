@@ -1,1 +1,15 @@
-
+PREFIX=.
+AUTO_VIEW_STATUS=on
+AUTO_SAVE_STATUS=off
+AUTO_READ_MESSAGES=off
+PM_PERMIT=off
+BOT_MENU_LINKS=https://telegra.ph/file/0b918caf8e6440bc67fd5.jpg 
+BOT_MODE=private
+DATABASE_URL=postgresql://emojy_user:RHdtgM8eZOp7QwxTPfoebXOQSfHhRB1u@dpg-cqdq159u0jms738u9gjg-a.oregon-postgres.render.com/emojy
+OWNER_NAME=France King 
+OWNER_NUMBER=254751284190
+WARN_COUNT=2
+STARTING_MESSAGE=on
+PRESENCE=
+CHAT_BOT=off
+SESSION_ID='Gifted~1fWjEjde' 
